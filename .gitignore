@@ -1,8 +1,5 @@
 tmp
-build
 .settings
 .project
 .DS_Store
-build.log
 .fastdev.lock
-Resources
